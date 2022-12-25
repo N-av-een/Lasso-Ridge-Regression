@@ -25,7 +25,6 @@ If a regression model uses the L1 Regularization technique, then it is called La
 
 L1 regularization adds a penalty that is equal to the absolute value of the magnitude of the coefficient. This regularization type can result in sparse models with few coefficients. Some coefficients might become zero and get eliminated from the model. Larger penalties result in coefficient values that are closer to zero (ideal for producing simpler models). On the other hand, L2 regularization does not result in any elimination of sparse models or coefficients. Thus, Lasso Regression is easier to interpret as compared to the Ridge. While there are ample resources available online to help you understand the subject, there’s nothing quite like a certificate. Check out Great Learning’s PG program in Artificial Intelligence to upskill in the domain. This course will help you learn from a top-ranking global school to build job-ready AIML skills. This 12-month program offers a hands-on learning experience with top faculty and mentors. On completion, you will receive a Certificate from The University of Texas at Austin, and Great Lakes Executive Learning.
 
-Also Read: Python Tutorial for Beginners
 
 Mathematical equation of Lasso Regression
 Residual Sum of Squares + λ * (Sum of the absolute value of the magnitude of coefficients)
